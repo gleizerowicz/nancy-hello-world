@@ -1,0 +1,14 @@
+C:\Projects\Nancy\NancyHelloWorld\NancyHelloWorld\bin\Debug\netcoreapp1.1\Microsoft.DiaSymReader.Native.x86.dll
+C:\Projects\Nancy\NancyHelloWorld\NancyHelloWorld\bin\Debug\netcoreapp1.1\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Projects\Nancy\NancyHelloWorld\NancyHelloWorld\bin\Debug\netcoreapp1.1\Views\Index.html
+C:\Projects\Nancy\NancyHelloWorld\NancyHelloWorld\bin\Debug\netcoreapp1.1\Views\Login.html
+C:\Projects\Nancy\NancyHelloWorld\NancyHelloWorld\bin\Debug\netcoreapp1.1\Views\MasterPage.html
+C:\Projects\Nancy\NancyHelloWorld\NancyHelloWorld\bin\Debug\netcoreapp1.1\Views\Secure.html
+C:\Projects\Nancy\NancyHelloWorld\NancyHelloWorld\bin\Debug\netcoreapp1.1\NancyHelloWorld.deps.json
+C:\Projects\Nancy\NancyHelloWorld\NancyHelloWorld\bin\Debug\netcoreapp1.1\NancyHelloWorld.runtimeconfig.json
+C:\Projects\Nancy\NancyHelloWorld\NancyHelloWorld\bin\Debug\netcoreapp1.1\NancyHelloWorld.runtimeconfig.dev.json
+C:\Projects\Nancy\NancyHelloWorld\NancyHelloWorld\bin\Debug\netcoreapp1.1\NancyHelloWorld.dll
+C:\Projects\Nancy\NancyHelloWorld\NancyHelloWorld\bin\Debug\netcoreapp1.1\NancyHelloWorld.pdb
+C:\Projects\Nancy\NancyHelloWorld\NancyHelloWorld\obj\Debug\netcoreapp1.1\NancyHelloWorld.AssemblyInfo.cs
+C:\Projects\Nancy\NancyHelloWorld\NancyHelloWorld\obj\Debug\netcoreapp1.1\NancyHelloWorld.dll
+C:\Projects\Nancy\NancyHelloWorld\NancyHelloWorld\obj\Debug\netcoreapp1.1\NancyHelloWorld.pdb
