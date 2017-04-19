@@ -8852,16 +8852,16 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\Nancy\\NancyHelloWorld\\NancyHelloWorld\\NancyHelloWorld.csproj",
+      "projectUniqueName": "c:\\Projects\\Nancy\\nancy-hello-world\\NancyHelloWorld\\NancyHelloWorld.csproj",
       "projectName": "NancyHelloWorld",
-      "projectPath": "C:\\Projects\\Nancy\\NancyHelloWorld\\NancyHelloWorld\\NancyHelloWorld.csproj",
-      "outputPath": "C:\\Projects\\Nancy\\NancyHelloWorld\\NancyHelloWorld\\obj\\",
+      "projectPath": "c:\\Projects\\Nancy\\nancy-hello-world\\NancyHelloWorld\\NancyHelloWorld.csproj",
+      "outputPath": "c:\\Projects\\Nancy\\nancy-hello-world\\NancyHelloWorld\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
       ],
       "files": {
-        "lib/netcoreapp1.1/NancyHelloWorld.dll": "C:\\Projects\\Nancy\\NancyHelloWorld\\NancyHelloWorld\\bin\\placeholder\\netcoreapp1.1\\NancyHelloWorld.dll"
+        "lib/netcoreapp1.1/NancyHelloWorld.dll": "c:\\Projects\\Nancy\\nancy-hello-world\\NancyHelloWorld\\bin\\placeholder\\netcoreapp1.1\\NancyHelloWorld.dll"
       },
       "frameworks": {
         "netcoreapp1.1": {
